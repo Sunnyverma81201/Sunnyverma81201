@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Apoorv Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<a href="https://app.daily.dev/determinedpark"><img src="https://api.daily.dev/devcards/ca614fc4a000437ab5cd3b57c15d25d2.png?r=jid" width="400" alt="Apoorv Verma's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyverma81201&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyverma81201" /> </p>
 
 <p align="left"> <a href="https://twitter.com/apoorvv72752070" target="blank"><img src="https://img.shields.io/twitter/follow/apoorvv72752070?logo=twitter&style=for-the-badge" alt="apoorvv72752070" /></a> </p>
