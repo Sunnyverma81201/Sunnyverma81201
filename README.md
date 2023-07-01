@@ -3,7 +3,7 @@
     <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyverma81201&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyverma81201" /> </p>
 
 
-- 🔭 I’m currently working on [DevConnect](https://github.com/Sunnyverma81201/dev_connect_flutter)
+- 🔭 I’m currently working on [ProFolio](https://github.com/Sunnyverma81201/profolio_flutter)
 
 - 🌱 I’m currently learning **![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sunnyverma81201](https://github.com/Sunnyverma81201)
 
-- 📝 I regularly write articles on [https://apoorvverma.tech/blogs](https://apoorvverma.tech/blogs)
+- 📝 Visit my website [https://apoorvverma.vercel.app/](https://apoorvverma.vercel.app)
 
 - 💬 Ask me about **Frontend, UI, Android , Kotlin, Python, C++, OOPS**
 
